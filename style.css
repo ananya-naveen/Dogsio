@@ -1,0 +1,45 @@
+#my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+#doggy{
+    width: 800px;
+    float: left;
+    margin-left: 20px;
+}
+
+#marqueeStyle{
+    background-color: #C9C9C2;
+}
+
+body{
+    background-color: #E0D7C5;
+}
+
+#h11{
+    margin-right: 200px;
+    margin-top: 10px;
+    text-align: right;
+    font-family: Genos;
+    font-size: 100px;
+}
+
+#h21{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 100px;
+}
+
+#details{
+    text-align: center;
+    margin-top: 125px;
+}
+
+#map{
+    width: 100%;
+    margin-left: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
